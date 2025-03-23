@@ -6,3 +6,4 @@ pdf2image
 torch
 transformers
 colpali-engine
+git+https://github.com/illuin-tech/colpali
