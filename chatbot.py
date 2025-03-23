@@ -1,5 +1,5 @@
 import google.generativeai as genai
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import os
 
 # 🔑 Use your actual API key from MakerSuite
