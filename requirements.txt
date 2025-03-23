@@ -9,3 +9,4 @@ colpali-engine
 git+https://github.com/illuin-tech/colpali
 qdrant_client
 bitsandbytes
+bitsandbytes-cuda110
