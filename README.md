@@ -1,1 +1,1 @@
-# ADHD-Companion
+# Multi-Modal-RAG
