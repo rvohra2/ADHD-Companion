@@ -4,3 +4,4 @@ PyPDF2
 load_dotenv
 pdf2image
 torch
+transformers
