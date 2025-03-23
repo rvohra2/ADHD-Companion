@@ -5,4 +5,4 @@ load_dotenv
 pdf2image
 torch
 transformers
-colpali_engine
+colpali-engine
