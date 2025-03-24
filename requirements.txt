@@ -230,7 +230,6 @@ pathlib==1.0.1
 pathspec
 patsy
 pdf2image==1.17.0
-peft==0.14.0
 pexpect
 pickleshare
 pillow
@@ -423,3 +422,4 @@ zstandard
 colpali_engine==0.3.4
 protobuf
 transformers
+peft
