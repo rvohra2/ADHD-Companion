@@ -10,7 +10,6 @@ alabaster
 altair
 anaconda-catalogs
 anaconda-cloud-auth
-anaconda-project
 annotated-types
 anyio
 appdirs==1.4.4
