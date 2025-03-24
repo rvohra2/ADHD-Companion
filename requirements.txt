@@ -422,5 +422,4 @@ zict
 zipp
 zope.interface
 zstandard
-gputil
 colpali-engine
