@@ -421,5 +421,5 @@ zict
 zipp
 zope.interface
 zstandard
-colpali-engine
+colpali_engine==0.3.4
 protobuf
