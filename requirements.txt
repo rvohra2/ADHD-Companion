@@ -298,7 +298,7 @@ pytoolconfig
 pytz
 pyviz_comms
 PyWavelets
-pywin32==305.1
+pywin32
 pywin32-ctypes
 pywinpty
 pyxnat==1.6.3
