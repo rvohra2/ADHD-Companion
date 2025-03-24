@@ -245,7 +245,6 @@ prometheus-client
 prompt-toolkit
 Protego
 proto-plus==1.26.1
-protobuf==5.29.3
 prov==2.0.1
 psutil
 ptyprocess
@@ -423,3 +422,4 @@ zipp
 zope.interface
 zstandard
 colpali-engine
+protobuf
