@@ -373,7 +373,6 @@ three-merge
 tifffile
 tinycss2
 tldextract
-tokenizers==0.21.1
 toml
 tomli
 tomlkit==0.13.2
@@ -423,3 +422,4 @@ colpali_engine==0.3.4
 protobuf
 transformers
 peft
+tokenizers
