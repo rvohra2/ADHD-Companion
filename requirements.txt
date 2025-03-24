@@ -8,7 +8,6 @@ aioitertools
 aiosignal
 alabaster
 altair
-anaconda-anon-usage
 anaconda-catalogs
 anaconda-client
 anaconda-cloud-auth
@@ -404,9 +403,9 @@ toml
 tomli
 tomlkit==0.13.2
 toolz
-torch==2.6.0+cu126
-torchaudio==2.6.0+cu126
-torchvision==0.21.0+cu126
+torch
+torchaudio
+torchvision
 tornado
 tqdm
 traitlets
