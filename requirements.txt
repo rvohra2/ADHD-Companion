@@ -322,7 +322,6 @@ rope
 rpds-py
 rsa==4.9
 Rtree
-ruamel-yaml-conda
 ruamel.yaml
 ruamel.yaml.clib
 ruff==0.11.0
