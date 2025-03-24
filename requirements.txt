@@ -106,7 +106,7 @@ google-crc32c==1.7.0
 google-generativeai==0.8.4
 google-resumable-media==2.7.2
 googleapis-common-protos==1.69.1
-GPUtil==1.4.0
+GPUtil
 gradio==5.21.0
 gradio_client==1.7.2
 greenlet
