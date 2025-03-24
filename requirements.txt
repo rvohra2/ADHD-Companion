@@ -386,7 +386,6 @@ tornado
 tqdm
 traitlets
 traits==7.0.2
-transformers==4.47.1
 truststore
 Twisted
 typer==0.15.2
@@ -423,3 +422,4 @@ zope.interface
 zstandard
 colpali_engine==0.3.4
 protobuf
+transformers
