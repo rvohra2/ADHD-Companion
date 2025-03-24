@@ -390,7 +390,6 @@ traits==7.0.2
 transformers==4.47.1
 truststore
 Twisted
-twisted-iocpsupport
 typer==0.15.2
 typing_extensions
 tzdata
